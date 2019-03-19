@@ -1,0 +1,36 @@
+{
+  "objectName":"hlsnrecipemaster",
+  "orientations":[
+    {
+      "dualImage":"hlsnrecipemaster.png",
+      "spaceScan":0.1,
+      "imagePosition":[0,0],
+      "frames":1,
+      "animationCycle":1.0,
+      "anchors":["bottom"]
+    }
+  ],
+  "shortdescription":"^orange;Recipe Master^reset;",
+  "description":"A powerful database that tells you how to craft items.",
+  "category":"storage",
+  "rarity":"Rare",
+  "inventoryIcon":"hlsnrecipemastericon.png",
+  "price":50,
+  "colonyTags":["crafting"],
+  "printable":false,
+  "race":"generic",
+  "apexDescription":"A station that provides all the information on possible recipes is here.",
+  "avianDescription":"This is informative! I will progress easier with this kind of technology.",
+  "floranDescription":"Floran can know better how to craft itemsss to ssstab meatsss!",
+  "glitchDescription":"Interested. This will give me more information that is probably saved in my memory.",
+  "novakidDescription":"This thingy will be my partner for my short memory!",
+  "hylotlDescription":"The possibilities seem endless with this object.",
+  "objectType":"container",
+  "lightColor":[120,222,244],
+  "health":12,
+  "interactAction":"ScriptPane",
+  "uiConfig":"/interface/hellession/recipemaster.config",
+  "slotCount":1,
+  "frameCooldown":5,
+  "autoCloseCooldown":3600
+}

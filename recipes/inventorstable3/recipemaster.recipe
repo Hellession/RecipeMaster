@@ -1,0 +1,15 @@
+{
+  "input" : [
+    { "item" : "battery", "count" : 1 },
+    { "item" : "durasteelbar", "count" : 30 },
+    { "item" : "titaniumbar", "count" : 5 },
+    { "item" : "siliconboard", "count" : 2 },
+    { "item" : "wire", "count" : 6 }
+  ],
+  "output" : {
+    "item" : "hlsnrecipemaster",
+    "count" : 1
+  },
+  "duration" : 5,
+  "groups" : [ "inventorstable3", "craftingstations", "all" ]
+}
